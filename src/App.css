@@ -1,0 +1,14 @@
+.app {
+  width: 100%;
+  height: 100vh;
+}
+
+.day {
+  background: #B9DDF9;
+  color: #3A6288;
+}
+
+.night {
+  background: #172355;
+  color: #fff;
+}

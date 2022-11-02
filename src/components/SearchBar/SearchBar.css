@@ -1,0 +1,16 @@
+.search-bar {
+    padding: 20px;
+}
+
+.search-input {
+    display: block;
+    width: 70%;
+    height: 20px;
+    padding: 10px 20px;
+    margin: 0 auto;
+    font-size: 18px;
+    color: rgba(6, 0, 143, 1);
+    border-radius: 0 25px 0 25px;
+    border: 0;
+    background: rgba(255, 255, 255, 0.6);
+}

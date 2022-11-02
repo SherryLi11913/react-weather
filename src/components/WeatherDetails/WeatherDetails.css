@@ -1,0 +1,26 @@
+.weather-details {
+    margin: 40px 0;
+    text-align: center;
+}
+
+.location {
+    font-size: 35px;
+}
+
+.temperature {
+    display: inline-block;
+    padding: 30px 40px;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 20px;
+    font-size: 45px;
+    font-family: 'Alfa Slab One';
+}
+
+.temperature-num {
+    margin: 0 10px;
+    font-size: 70px;
+}
+
+.weather {
+    font-size: 25px;
+}
